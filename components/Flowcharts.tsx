@@ -151,9 +151,9 @@ const FlowCard = ({ title, steps, benefit, delay }: { title: string; steps: stri
 
 const Flowcharts = () => {
     return (
-        <section id="process" className="py-20 md:py-32 px-6 relative bg-black overflow-hidden">
+        <section id="process" className="pt-16 md:pt-24 pb-8 md:pb-12 px-6 relative bg-black overflow-hidden">
             <div className="max-w-7xl mx-auto relative">
-                <div className="text-center mb-10 md:mb-20">
+                <div className="text-center mb-6 md:mb-10">
                     <motion.h2
                         initial={{ opacity: 0, y: 20 }}
                         whileInView={{ opacity: 1, y: 0 }}

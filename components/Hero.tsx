@@ -42,7 +42,7 @@ const Hero = () => {
       <div className="absolute bottom-1/4 left-1/2 -translate-x-1/2 w-[600px] h-[300px] bg-purple-600/10 rounded-[100%] blur-[100px] pointer-events-none" />
 
       {/* Header Content */}
-      <div className="relative z-10 text-center max-w-4xl mx-auto mb-24 px-4">
+      <div className="relative z-10 text-center max-w-4xl mx-auto mb-12 px-4">
         <motion.h1
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -81,7 +81,7 @@ const Hero = () => {
       </div>
 
       {/* Demo Video Section with Floating Bubbles */}
-      <div className={`relative z-10 w-full mb-32 transition-all duration-1000 delay-500 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
+      <div className={`relative z-10 w-full mb-16 transition-all duration-1000 delay-500 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
         <div className="relative max-w-6xl mx-auto px-4">
 
           {/* Floating Pain Point Bubbles centered around the video */}
