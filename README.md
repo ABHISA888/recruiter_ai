@@ -1,20 +1,83 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# RecruiterAI – AI-Powered Hiring Automation Platform (Landing Page)
 
-# Run and deploy your AI Studio app
+RecruiterAI is a high-conversion, responsive landing page built to showcase an AI-powered recruiting automation platform that screens candidates, schedules interviews, and re-engages talent automatically.
 
-This contains everything you need to run your app locally.
+This project was built as part of an internship assignment with a strong focus on:
+- Product thinking
+- UX clarity
+- Clean component architecture
+- Motion-driven storytelling
 
-View your app in AI Studio: https://ai.studio/apps/drive/1uap3B5j-_U4LgW0jXZYaKfmW4okikZ9R
+---
 
-## Run Locally
+## 🚀 Live Demo
 
-**Prerequisites:**  Node.js
+🔗 Deployed Link: https://<your-vercel-link-here>
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🧠 Product Thinking
+
+Recruiting is slow, manual, and expensive for most companies.
+
+RecruiterAI positions itself as a **virtual HR team powered by AI**, solving:
+
+- Resume overload  
+- Slow response times  
+- Biased screening  
+- Long hiring cycles  
+
+The landing page visually communicates automation, speed, and reliability using animated flows and conversational UI.
+
+---
+
+## ✨ Key Features
+
+- Animated Hero section with real-world hiring pain points  
+- Framer Motion–powered automation flowcharts  
+- Interactive AI Interview Simulator  
+- Impact metrics visualization  
+- Infinite scrolling integrations marquee  
+- Testimonials & FAQ accordion  
+- Fully responsive (mobile-first)
+
+---
+
+## 🛠 Tech Stack
+
+- React (Vite)  
+- TypeScript  
+- Tailwind CSS  
+- Framer Motion  
+- Lucide Icons  
+
+---
+
+## 🎨 Design System
+
+Strictly followed the provided color palette:
+
+- Primary Blue: `#3B82F6`  
+- Light Background: `#EFF6FF`  
+- White: `#FFFFFF`  
+- Text: `#404040`, `#737373`  
+- Accents: `#A5D8FF`, `#D0BCFF`, `#B197FC`
+
+Font: Inter / system sans-serif
+
+---
+
+## 🧩 Architecture
+
+```txt
+src/
+ ├─ components/
+ │   ├─ Hero.tsx
+ │   ├─ Flowcharts.tsx
+ │   ├─ AISimulator.tsx
+ │   ├─ Metrics.tsx
+ │   ├─ Testimonials.tsx
+ │   ├─ FAQ.tsx
+ │   └─ Footer.tsx
+ ├─ App.tsx
+ └─ main.tsx
