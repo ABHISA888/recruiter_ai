@@ -52,8 +52,8 @@ const FAQ: React.FC = () => {
             answer: "Our AI uses advanced Large Language Models (LLMs) to analyze resumes and portfolios against your specific job requirements. It doesn't just look for keywords; it understands context, project complexity, and even cultural alignment based on previous successful hires in your organization."
         },
         {
-            question: "Does RecruitierAI integrate with our existing ATS?",
-            answer: "Yes, we integrate with all major Applicant Tracking Systems including Greenhouse, Lever, Ashby, Workable, and more. Our API-first approach ensures that data flows seamlessly between RecruitierAI and your existing HR stack."
+            question: "Does RecruiterAI integrate with our existing ATS?",
+            answer: "Yes, we integrate with all major Applicant Tracking Systems including Greenhouse, Lever, Ashby, Workable, and more. Our API-first approach ensures that data flows seamlessly between RecruiterAI and your existing HR stack."
         },
         {
             question: "What's the pricing structure?",

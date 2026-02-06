@@ -27,7 +27,7 @@ const Navbar: React.FC<NavbarProps> = ({ showContent }) => {
             layoutId="logo-text"
             className="text-[20px] font-black tracking-tighter text-white"
           >
-            RecruitierAI
+            RecruiterAI
           </motion.span>
         </div>
 

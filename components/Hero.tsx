@@ -126,7 +126,7 @@ const Hero = () => {
                 </div>
                 <div className="flex-1 text-center">
                   <div className="bg-white/5 rounded-lg px-6 py-1.5 text-sm text-gray-400 inline-block border border-white/5 font-mono">
-                    recruitier.ai/demo
+                    Recruiter.ai/demo
                   </div>
                 </div>
               </div>
@@ -164,7 +164,7 @@ const Hero = () => {
                     </div>
                   </div>
                   <h3 className="text-3xl font-black text-white mb-6 tracking-tight">
-                    Watch RecruitierAI in Action
+                    Watch RecruiterAI in Action
                   </h3>
                   <p className="text-gray-400 mb-8 max-w-md text-lg leading-relaxed font-medium">
                     See how AI instantly maps candidate skills, explains complex experience patterns, and guides you to the perfect hire

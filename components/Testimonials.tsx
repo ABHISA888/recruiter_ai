@@ -40,13 +40,13 @@ const Testimonials = () => {
         <div className="flex flex-col md:flex-row justify-between items-end mb-16 gap-8">
           <div className="max-w-2xl">
             <h2 className="text-4xl md:text-6xl font-black mb-6">What hiring leaders <br /> are saying</h2>
-            <p className="text-xl text-gray-400">Join 500+ forward-thinking teams using RecruitierAI.</p>
+            <p className="text-xl text-gray-400">Join 500+ forward-thinking teams using RecruiterAI.</p>
           </div>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <TestimonialCard
-            quote="We went from 6 weeks to hire a developer to just 10 days. RecruitierAI handled everything from screening to scheduling."
+            quote="We went from 6 weeks to hire a developer to just 10 days. RecruiterAI handled everything from screening to scheduling."
             author="Rahul Mehta"
             role="Founder, TechStart Solutions"
             delay={0}

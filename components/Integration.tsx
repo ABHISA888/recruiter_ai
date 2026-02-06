@@ -51,7 +51,7 @@ const Integration: React.FC = () => {
 
             <div className="mt-auto">
               <button className="bg-white text-black px-8 py-3.5 rounded-full font-bold text-[15px] hover:bg-slate-100 transition-all">
-                RecruitierAI documentation
+                RecruiterAI documentation
               </button>
             </div>
           </div>
