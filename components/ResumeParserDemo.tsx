@@ -43,7 +43,7 @@ const ResumeParserDemo: React.FC = () => {
                         The World's Fastest <br /> Holographic Parser
                     </h2>
                     <p className="text-xl text-gray-400 max-w-2xl mx-auto font-medium">
-                        Watch RecruitierAI turn unstructured PDF chaos into organized, actionable talent intelligence in milliseconds.
+                        Watch RecruiterAI turn unstructured PDF chaos into organized, actionable talent intelligence in milliseconds.
                     </p>
                 </div>
 

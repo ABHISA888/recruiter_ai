@@ -75,7 +75,7 @@ const IntroAnimation: React.FC<IntroAnimationProps> = ({ onComplete }) => {
                                 animate={{ opacity: 1, x: 0 }}
                                 className="text-7xl font-black tracking-tighter text-[#404040] z-[120]"
                             >
-                                RecruitierAI
+                                RecruiterAI
                             </motion.span>
                         )}
                     </AnimatePresence>

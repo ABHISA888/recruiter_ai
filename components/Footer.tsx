@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
               <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="text-white">
                 <path d="M12 2L14.85 9.15L22 12L14.85 14.85L12 22L9.15 14.85L2 12L9.15 9.15L12 2Z" fill="currentColor" />
               </svg>
-              <h3 className="text-2xl font-black tracking-tighter">RecruitierAI</h3>
+              <h3 className="text-2xl font-black tracking-tighter">RecruiterAI</h3>
             </div>
             <p className="text-gray-500 max-w-sm mb-8">
               The future of hiring interaction is intelligence. Sourcing should be the most natural way to build world-class products.
@@ -49,7 +49,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-600">
-          <p>© 2026 RecruitierAI. All rights reserved.</p>
+          <p>© 2026 RecruiterAI. All rights reserved.</p>
           <p>Built for the future of talent.</p>
         </div>
       </div>

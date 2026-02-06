@@ -23,7 +23,7 @@ const ROICalculator: React.FC = () => {
             <div className="max-w-4xl mx-auto">
                 <div className="text-center mb-16">
                     <h2 className="text-4xl md:text-6xl font-black mb-6 tracking-tight">
-                        See how much <br /> RecruitierAI saves you
+                        See how much <br /> RecruiterAI saves you
                     </h2>
                     <p className="text-xl text-gray-400 font-medium">Quantify the impact of automated intelligence on your bottom line.</p>
                 </div>
