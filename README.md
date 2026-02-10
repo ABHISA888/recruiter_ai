@@ -12,7 +12,7 @@ This project was built as part of an internship assignment with a strong focus o
 
 ## 🚀 Live Demo
 
-🔗 Deployed Link: https://<your-vercel-link-here>
+🔗 Deployed Link: [https://<your-vercel-link-here>](https://recruiter-ai-brown.vercel.app/)
 
 ---
 
